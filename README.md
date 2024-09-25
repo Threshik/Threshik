@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="GIF" width="50%" />
+</p>
+
+
 # Hi, I'm Threshika V S! 👋
 
 I'm a **Computer Science Engineering** student with a strong passion for **Android Development**, **Machine Learning**, and **Data Structures**. I enjoy developing creative solutions to real-world problems and working on projects that push the boundaries of my knowledge.
