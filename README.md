@@ -29,15 +29,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,mysql,postgres,androidstudio,git,github,docker,aws,postman,figma" />
 </p>
 
-### Popular Repositories
-<p>
-  <a href="https://github.com/Threshik/QuitQ-Ecommerce-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=QuitQ-Ecommerce-Application&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Threshik/Pright">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=Pright&theme=react&hide_border=true" />
-  </a>
-</p>
+
 
 ### Highlights
 - 🛒 **QuitQ** — full-stack e-commerce (Auth, Cart, Admin). *Spring Boot · Hibernate · Security · MySQL · React · Bootstrap*  
