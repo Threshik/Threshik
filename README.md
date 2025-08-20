@@ -24,21 +24,18 @@
 <!-- thin divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=2&section=footer" width="100%"/>
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css,mysql,postgres,androidstudio,git,github,docker,postman,aws,vscode,idea,eclipse,figma" />
 
-<br/>
-💭 *"Clean code, scalable systems, and innovative solutions."*
+## Highlights  
 
-
-
-### Highlights
-- 🛒 **QuitQ** — full-stack e-commerce (Auth, Cart, Admin). *Spring Boot · Hibernate · Security · MySQL · React · Bootstrap*  
-  ↳ Repo: **https://github.com/Threshik/QuitQ-Ecommerce-Application.git**
-- 🥇 **1st Rank in Department (2021–2025)**
-- 🏆 **Best Paper Award** – TESLATOUCH (2023)
-- 🌟 **NPTEL Discipline Star** (2024)
+- **1st Rank in Department (2021–2025)**  
+- **Best Outgoing Student (Dept)** & **Best Overall Female Student (Institution)**  
+- **Rank 1 in College – GeeksforGeeks**  
+- **Best Paper Award – TESLATOUCH (2023)**  
+- **NPTEL Discipline Star and Motivated Learners (2024)**  
+- **3rd Prize – ICT Youth Talk (2023)**  
 
 <!-- subtle footer quote -->
 <br/>
