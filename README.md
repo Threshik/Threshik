@@ -38,4 +38,7 @@
 
 <!-- subtle footer quote -->
 <br/>
-<em>“Code. Build. Break. Learn. Repeat.”</em>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Code.+Build.+Break.+Learn.+Repeat." alt="Footer Animation" />
+</p>
+
