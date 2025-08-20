@@ -30,16 +30,13 @@
 <div align="center">
 
 <!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css" /><br>
 
 <!-- Row 2 -->
 <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,git,github,docker,postman,aws" /><br>
 
 <!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=figma,vscode" />
-<img src="https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma" />
 
 </div>
 
