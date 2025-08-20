@@ -24,10 +24,7 @@
 <!-- thin divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=2&section=footer" width="100%"/>
 
-<h2 align="center"> 🛠️ Tech Stack </h2>
-<br/>
-
-<div align="center">
+## 🛠️ Tech Stack  
 
 <!-- Row 1 -->
 <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css" /><br>
@@ -38,13 +35,8 @@
 <!-- Row 3 -->
 <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma" />
 
-</div>
-
 <br/>
-<div align="center">
-  <em>💭 "Clean code, scalable systems, and innovative solutions." </em>
-</div>
-
+💭 *"Clean code, scalable systems, and innovative solutions."*
 
 
 
