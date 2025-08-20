@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="55%" />
-</p>
+
 
 # Hi, I'm Threshika V S! 👋  
 💻 Java Full Stack Developer | ☁️ DevOps Enthusiast | 🚀 Problem Solver  
@@ -20,7 +18,7 @@
 
 ---
 
-## 🛠️ Skills & Tools  
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,python,html,css,js,androidstudio,git,github,docker,figma,postman,aws" />
@@ -65,13 +63,6 @@
 
 ---
 
-## 📜 Certifications  
-
-- **NPTEL**: Programming in Java (Silver), Joy of Computing using Python (Elite), DSA using Java (Elite)  
-- **Coursera**: Oracle SQL Basics, Intermediate RDB & SQL, The Structured Query Language  
-- **IBM**: IBM Cloud Core  
-
----
 
 ## 📊 GitHub Stats  
 
