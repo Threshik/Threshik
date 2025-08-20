@@ -39,6 +39,6 @@
 <!-- subtle footer quote -->
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Code.+Build.+Break.+Learn.+Repeat." alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&width=550&lines=public+class+Life+%7B;    public+void+main()+%7B;        Code();+Build();+Break();+Learn();+Repeat();    %7D;%7D" alt="Java Styled Footer" />
 </p>
 
