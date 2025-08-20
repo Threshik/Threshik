@@ -26,14 +26,7 @@
 
 ## 🛠️ Tech Stack  
 
-<!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css" /><br>
-
-<!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,git,github,docker,postman,aws" /><br>
-
-<!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css,mysql,postgres,androidstudio,git,github,docker,postman,aws,vscode,idea,eclipse,figma" />
 
 <br/>
 💭 *"Clean code, scalable systems, and innovative solutions."*
