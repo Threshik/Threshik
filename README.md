@@ -24,10 +24,30 @@
 <!-- thin divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=2&section=footer" width="100%"/>
 
-### Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,mysql,postgres,androidstudio,git,github,docker,aws,postman,figma" />
-</p>
+<h2 align="center"> 🛠️ Tech Stack </h2>
+<br/>
+
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css" /><br>
+
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,git,github,docker,postman,aws" /><br>
+
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
+<img src="https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+
+</div>
+
+<br/>
+<div align="center">
+  <em>💭 "Clean code, scalable systems, and innovative solutions." </em>
+</div>
+
 
 
 
