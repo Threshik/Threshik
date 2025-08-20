@@ -23,7 +23,18 @@
 
 ## Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=java,js,react,spring,hibernate,html,css,bootstrap,mysql,postgres,androidstudio,git,github,docker,kubernetes,jenkins,postman,rest,maven,junit,aws,vscode,idea,eclipse,figma" />
+<!-- First Row -->
+<img src="https://skillicons.dev/icons?i=java,js,react,spring,html,css,bootstrap,mysql,postgres" /><br>
+
+<!-- Second Row -->
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,docker,kubernetes,jenkins,postman,aws,vscode,idea,eclipse,figma" /><br>
+
+<!-- Extra Tools (not available in skillicons.dev) -->
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+
 
 ## Highlights  
 
