@@ -23,7 +23,7 @@
 
 ## Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,html,css,mysql,postgres,androidstudio,git,github,docker,postman,aws,vscode,idea,eclipse,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,hibernate,nodejs,html,css,bootstrap,mysql,postgres,androidstudio,git,github,docker,kubernetes,jenkins,postman,aws,azure,gcp,vscode,idea,eclipse,figma" />
 
 ## Highlights  
 
