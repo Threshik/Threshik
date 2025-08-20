@@ -5,7 +5,6 @@
   <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="26" /></a>&nbsp;
   <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="26" /></a>
 </p>
-
 <p>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2800&color=36BCF7&width=750&lines=Hi%2C+I'm+Threshika+V+S;Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Programmer+%7C+Engineer+%7C+Creator;Clean+Code+%26+Reliable+Systems;Always+Learning+%26+Building"
