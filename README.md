@@ -40,6 +40,19 @@
 
 ---
 
+## 📌 Popular Repositories  
+
+<p align="center">
+  <a href="https://github.com/Threshik/QuitQ-Ecommerce-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=QuitQ-Ecommerce-Application&theme=react" />
+  </a>
+  <a href="https://github.com/Threshik/Pright">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=Pright&theme=react" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements  
 
 - 🥇 **1st Rank in Department (2021–2025)**  
@@ -82,10 +95,10 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:threshikavijay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/threshika"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Threshik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linktr.ee/threshika"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:threshikavijay@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px" /></a>
+  <a href="https://linkedin.com/in/threshika"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>
+  <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a>
+  <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="40px" /></a>
 </p>
 
 ---
