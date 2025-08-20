@@ -8,21 +8,11 @@
 
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2800&color=36BCF7&width=700&lines=Hi%2C+I'm+Threshika+V+S;Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Programmer+%7C+Engineer+%7C+Creator"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2800&color=36BCF7&width=750&lines=Hi%2C+I'm+Threshika+V+S;Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Programmer+%7C+Engineer+%7C+Creator;Clean+Code+%26+Reliable+Systems;Always+Learning+%26+Building"
     alt="Typing animation"
   />
 </p>
 
-
-
-
-<!-- Animated headline -->
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&duration=2800&color=36BCF7&width=600&lines=Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Clean+Code.+Reliable+Systems.;Always+Learning+%26+Building"
-    alt="Animated headline"
-  />
-</p>
 
 <!-- Sub-intro: short, crisp -->
 > Completed **B.E. CSE** (Class of 2025 – yet to graduate).  
