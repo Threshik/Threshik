@@ -5,8 +5,10 @@
   <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="26" /></a>&nbsp;
   <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="26" /></a>
 </p>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0:36BCF7,100:A9C9FF&width=600&lines=Threshika+V+S" alt="Name Gradient" />
+</h1>
 
-<h1 align="left">Hi, I'm Threshika V S! 👋</h1>
 
 <!-- Animated headline -->
 <p>
