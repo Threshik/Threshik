@@ -6,13 +6,13 @@
   <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="26" /></a>
 </p>
 
-<h1 align="left">Threshika V S</h1>
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Programmer;Software+Engineer;Problem+Solver"
-    alt="Role Animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=2800&color=36BCF7&width=700&lines=Hi%2C+I'm+Threshika+V+S;Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Programmer+%7C+Engineer+%7C+Creator"
+    alt="Typing animation"
   />
 </p>
+
 
 
 
