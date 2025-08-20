@@ -1,56 +1,51 @@
-# Hi, I'm Threshika V S! 👋  
-💻 Java Full Stack Developer | ☁️ DevOps Enthusiast | 🚀 Problem Solver  
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="mailto:threshikavijay@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px" /></a>
-  <a href="https://linkedin.com/in/threshika"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>
-  <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a>
-  <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="40px" /></a>
+<!-- Top Connect (icon-only) -->
+<p align="right">
+  <a href="mailto:threshikavijay@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="26" /></a>&nbsp;
+  <a href="https://linkedin.com/in/threshika"><img src="https://skillicons.dev/icons?i=linkedin" width="26" /></a>&nbsp;
+  <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="26" /></a>&nbsp;
+  <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="26" /></a>
 </p>
 
----
+<h1 align="left">Hi, I'm Threshika V S! 👋</h1>
 
-## 🚀 About Me  
-- 🎓 Completed **B.E. in CSE** (Class of 2025 – yet to graduate)  
-- 💻 Skilled in **Java Full Stack Development** (Spring Boot + React + SQL)  
-- 🔧 Exploring **DevOps & Cloud** (AWS, Docker, GitHub Actions)  
-- 📱 Experienced in **Android App Development**  
-- ⚡ Passionate about solving challenges on **LeetCode & GeeksforGeeks**  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,python,html,css,js,androidstudio,git,github,docker,figma,postman,aws" />
+<!-- Animated headline -->
+<p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&duration=2800&color=36BCF7&width=600&lines=Java+Full+Stack+Developer;DevOps+%26+Cloud+Explorer;Android+App+Builder;Clean+Code.+Reliable+Systems.;Always+Learning+%26+Building"
+    alt="Animated headline"
+  />
 </p>
 
----
+<!-- Sub-intro: short, crisp -->
+> Completed **B.E. CSE** (Class of 2025 – yet to graduate).  
+> Building with **Spring Boot · React · SQL** and exploring **DevOps** (**AWS, Docker, GitHub Actions**).  
+> I enjoy crafting useful apps and solving problems on **LeetCode** & **GFG**.
 
-## 📌 Popular Repositories  
+<!-- thin divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=2&section=footer" width="100%"/>
 
-<p align="center">
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,mysql,postgres,androidstudio,git,github,docker,aws,postman,figma" />
+</p>
+
+### Popular Repositories
+<p>
   <a href="https://github.com/Threshik/QuitQ-Ecommerce-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=QuitQ-Ecommerce-Application&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=QuitQ-Ecommerce-Application&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/Threshik/Pright">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=Pright&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Threshik&repo=Pright&theme=react&hide_border=true" />
   </a>
 </p>
 
----
+### Highlights
+- 🛒 **QuitQ** — full-stack e-commerce (Auth, Cart, Admin). *Spring Boot · Hibernate · Security · MySQL · React · Bootstrap*  
+  ↳ Repo: **https://github.com/Threshik/QuitQ-Ecommerce-Application.git**
+- 🥇 **1st Rank in Department (2021–2025)**
+- 🏆 **Best Paper Award** – TESLATOUCH (2023)
+- 🌟 **NPTEL Discipline Star** (2024)
 
-## 🏆 Highlights  
-
-- 🥇 **1st Rank in Department (2021–2025)**  
-- 🏆 **Best Paper Award** – TESLATOUCH (2023)  
-- 🌟 **NPTEL Discipline Star** (2024)  
-- 📜 **Rank 1 in College – GeeksforGeeks**  
-
----
-
-✨ *“Code. Build. Break. Learn. Repeat.”* ✨  
+<!-- subtle footer quote -->
+<br/>
+<em>“Code. Build. Break. Learn. Repeat.”</em>
