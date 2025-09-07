@@ -21,9 +21,10 @@
 <!-- thin divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=2&section=footer" width="100%"/>
 
-## Tech Stack  
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,html,css,js,bootstrap,dart, flutter,mysql,postgres,sqlite,androidstudio,git,github,docker,kubernetes,jenkins,postman,aws,linux,vscode,idea,eclipse,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,html,css,js,bootstrap,dart,flutter,mysql,postgres,sqlite,androidstudio,git,github,docker,kubernetes,jenkins,postman,aws,linux,vscode,idea,eclipse,figma" />
+
 
 
 
