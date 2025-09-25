@@ -15,7 +15,7 @@
 
 <!-- Sub-intro: short, crisp -->
 > Completed **B.E. CSE** (Class of 2025 – yet to graduate).  
-> Building with **Spring Boot · React · SQL** and exploring **DevOps** (**AWS, Docker, GitHub Actions**).  
+> Building with **Spring Boot · React · SQL** and exploring **DevOps** (**AWS, Docker, GitHub Actions, Jenkins**).  
 > I enjoy crafting useful apps and solving problems on **LeetCode** & **GFG**.
 
 <!-- thin divider -->
