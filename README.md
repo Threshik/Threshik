@@ -23,7 +23,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,nodejs,html,css,js,bootstrap,c#,dart,flutter,firebase,mysql,postgres,sqlite,androidstudio,git,github,githubactions,docker,kubernetes,jenkins,postman,aws,linux,vscode,idea,eclipse,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,nodejs,html,css,js,bootstrap,csharp,dart,flutter,firebase,mysql,postgres,sqlite,androidstudio,git,github,githubactions,docker,kubernetes,jenkins,postman,aws,linux,vscode,idea,eclipse,figma" />
 
 
 
