@@ -3,7 +3,8 @@
 <p align="right">
   <a href="mailto:threshikavijay@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="26" /></a>&nbsp;
   <a href="https://linkedin.com/in/threshika"><img src="https://skillicons.dev/icons?i=linkedin" width="26" /></a>&nbsp;
-  <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="26" /></a>
+  <a href="https://github.com/Threshik"><img src="https://skillicons.dev/icons?i=github" width="26" /></a>&nbsp;
+  <a href="https://linktr.ee/threshika"><img src="https://skillicons.dev/icons?i=devto" width="26" /></a>
 </p>
 
 <p>
